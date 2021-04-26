@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aaiello7-profile/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/aaiello7-profile/static/js/main.61cb628b.chunk.js",
+    "main.js.map": "/aaiello7-profile/static/js/main.61cb628b.chunk.js.map",
+    "runtime-main.js": "/aaiello7-profile/static/js/runtime-main.79911593.js",
+    "runtime-main.js.map": "/aaiello7-profile/static/js/runtime-main.79911593.js.map",
+    "static/js/2.403aa7c1.chunk.js": "/aaiello7-profile/static/js/2.403aa7c1.chunk.js",
+    "static/js/2.403aa7c1.chunk.js.map": "/aaiello7-profile/static/js/2.403aa7c1.chunk.js.map",
+    "static/js/3.87c4331a.chunk.js": "/aaiello7-profile/static/js/3.87c4331a.chunk.js",
+    "static/js/3.87c4331a.chunk.js.map": "/aaiello7-profile/static/js/3.87c4331a.chunk.js.map",
+    "index.html": "/aaiello7-profile/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/aaiello7-profile/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.403aa7c1.chunk.js.LICENSE.txt": "/aaiello7-profile/static/js/2.403aa7c1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aaiello7-profile/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79911593.js",
+    "static/js/2.403aa7c1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.61cb628b.chunk.js"
+  ]
+}
