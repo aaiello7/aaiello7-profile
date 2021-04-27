@@ -63,7 +63,7 @@ html {
     padding: 1em;
     color: whitesmoke;
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 2.5vh;
 }
 
@@ -199,7 +199,7 @@ html {
 /* Text styling */
 .header h1 {
     font-family: 'RocknRoll One', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 7vh;
     padding: 3vh 3vw;
     text-align: left;
@@ -215,7 +215,7 @@ h1 span {
 .card h2 {
     position: absolute;
     font-family: 'RocknRoll One', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 3vh;
     color: black;
     text-align: center;
@@ -232,7 +232,7 @@ h1 span {
 
 h3 {
     font-family: 'RocknRoll One', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 2vh;
     color: #006064;
     text-align: left;
@@ -271,7 +271,7 @@ p {
 
 .footer p {
     font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     color: whitesmoke;
     padding: 1vh 1vw;
     text-align: center;
